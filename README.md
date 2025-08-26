@@ -5,11 +5,6 @@ I'm Viola — a frontend developer focused on building modern, responsive, and c
 - React (hooks, component-based architecture)  
 - Next.js (App Router, SSR, metadata handling)  
 - TypeScript (utility types, generics)  
-- React Hook Form (multi-step forms, conditional logic)  
-- Supabase (authentication, sessions)  
-- Stripe (checkout, subscriptions)  
-- Chakra UI, Framer Motion, Lottie  
-- REST APIs, Zustand, ESLint, Vercel, Git
 
 ### 🎯 Currently
 Open to new frontend opportunities (remote or hybrid)
